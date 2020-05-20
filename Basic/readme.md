@@ -88,7 +88,14 @@ function store(type: "noodle"|"icecream"){
 ```
 
 ## enum
-- 작성예정
+- 열거형으로 상수의 집합에 이름을 부여할때 사용
+```
+enum Grade{
+  BRONZE,
+  GREEN,
+  GOLD
+}
+```
 
 ## Class
 - 작성예정
