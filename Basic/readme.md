@@ -88,7 +88,7 @@ function store(type: "noodle"|"icecream"){
 ```
 
 ## enum
-- 열거형으로 상수의 집합에 이름을 부여할때 사용
+- 열거형으로 상수의 집합에 이름을 부여할때 사용한다.
 ```
 enum Grade{
   BRONZE,
@@ -100,9 +100,9 @@ enum Grade{
 - 다음과 같이 enum형 Grade를 선언하면 기입한 순서대로 양방향 key-value를 형성한다.
     *  `0`  : `BRONZE`,  `1`: `GREEN`, `2`: `SILVER`, `3`: `GOLD`
     *   `BRONZE`: `0` , `GREEN`:`1`, `SILVER`:`2`, `GOLD`:`3`
-- 만약 특성인덱스(key)를 고정하고 싶으면 `SILVER=2`처럼 기본값을 설정해준다.
+- 만약 특성인덱스(key)를 고정하고 싶으면 `SILVER=2`처럼 초기값을 설정해준다(Initializer).
     * 기본값으로 설정된 key와 쌍을 이루고, 그 이후에 선언된 값들은 기본값으로부터 +1 된다.
-- string, object등으로 초기화 할 수 있다.
+- 초기값을 string형으로 지정해줄 수도 있다.
 
 ## Class
 - 작성예정
