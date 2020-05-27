@@ -40,10 +40,11 @@ Class Cart{
 ## Generic
 - 작성예정
 
-<br>
-> > 👉[목차로 돌아가기](https://github.com/ss-won/TypeScript)
->> > 👉 다음장 : [고급타입](https://github.com/ss-won/TypeScript/tree/master/AdvancedType)
-<br>
+<br/>
+
+> 👉[목차로 돌아가기](https://github.com/ss-won/TypeScript)
+> > 👉 다음장 : [고급타입](https://github.com/ss-won/TypeScript/tree/master/AdvancedType)
+<br/>
 
 ## Reference
 - FastCampus Typescript 온라인 강좌(Teacher: Harry)
