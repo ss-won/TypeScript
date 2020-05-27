@@ -104,10 +104,11 @@ enum Grade{
     * 기본값으로 설정된 key와 쌍을 이루고, 그 이후에 선언된 값들은 기본값으로부터 +1 된다.
 - 초기값을 string형으로 지정해줄 수도 있다.
 
-<br>
-> > 👉[목차로 돌아가기](https://github.com/ss-won/TypeScript)
->> > 👉 다음장 : [클래스, 제네릭](https://github.com/ss-won/TypeScript/tree/master/Class,Generic)
-<br>
+<br/>
+
+> 👉[목차로 돌아가기](https://github.com/ss-won/TypeScript)   
+> > 👉 다음장 : [클래스, 제네릭](https://github.com/ss-won/TypeScript/tree/master/Class,Generic)
+<br/>
 
 ## Reference
 - FastCampus Typescript 온라인 강좌(Teacher: Harry)
